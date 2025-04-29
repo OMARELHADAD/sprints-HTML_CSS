@@ -1,0 +1,32 @@
+<!-- 
+Task General Description
+
+In this task, you will start building the blog website by creating the structure for the homepage. This task depends on your planning from the Introduction to Web Development module. It also sets the foundation for subsequent tasks where you will expand the site by adding more pages and features.
+
+Requirement 1
+
+Title: Homepage HTML
+
+Description: 
+Create an HTML file for the homepage of the blog website.
+
+Requirement 2
+
+Title: Header & Navigation
+
+Description:
+Add a header containing the site title and a navigation menu with links to the homepage, blog posts, and contact page.
+
+Requirement 3
+
+Title: Blog Posts
+
+Description:
+Below the header, create a section that lists blog posts, each containing the following elements:
+1. Blog post title (wrapped in an <h2> tag) that links to the detailed blog post page.
+2. A short description of the post.
+3. The publication date of each post (use <time> to define the date).
+
+Required Deliverable:
+The GitHub repository contains the HTML file index.html containing the homepage layout.
+-->
